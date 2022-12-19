@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 Linkdin :- [https://linkedin.com/in/tinkle%20dash]
+<br/>
 portfolio:-[https://tinkle7.github.io/]
 
 <h3 align="left">Languages and Tools:</h3>
