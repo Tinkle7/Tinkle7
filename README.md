@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I think I am very funny**
 
 <h3 align="left">Connect with me:</h3>
-Linkdin :- [https://linkedin.com/in/tinkle%20dash]
+Linkdin :- [https://www.linkedin.com/in/tinkle7/]
 <br/>
 portfolio:-[https://tinkle7.github.io/]
 
